@@ -31,8 +31,11 @@ that holds it together.
 
 Group work lives in **[QWERTY123](https://github.com/HotCode2025/Qwerty123-Cuarto-Semestre)** — a semester repo for **Programación IV** with a [wiki](https://github.com/HotCode2025/Qwerty123-Cuarto-Semestre/wiki) covering the theory behind each project.
 
+My latest project is **GastoSmart**, a personal-finance app documented end to end — from the business model and MER to a navigable prototype — with a [live demo](https://gastosmart.tinidrop.app/).
+
 | Project | Stack | Source |
 |---|---|---|
+| **GastoSmart** | HTML · CSS · JavaScript · MER · MVP · PMO | [GastoSmart-Metodologia-Sistemas](https://github.com/tomasandres520/GastoSmart-Metodologia-Sistemas) |
 | **Task Planner** | Java 21 · Spring Boot · JPA · MySQL · Swagger | [Java/Clase10-12/planificador_tareas](https://github.com/HotCode2025/Qwerty123-Cuarto-Semestre/tree/main/Java/Clase10-12/planificador_tareas) |
 | **PERN Task App** | PostgreSQL · Express · React · Node · JWT | [JavaScript/PERN-STACK](https://github.com/HotCode2025/Qwerty123-Cuarto-Semestre/tree/main/JavaScript/PERN-STACK) |
 | **E-Commerce with Mercado Pago** | JavaScript · Express · Mercado Pago SDK | [JavaScript/E-Commerce](https://github.com/HotCode2025/Qwerty123-Cuarto-Semestre/tree/main/JavaScript/E-Commerce) |
