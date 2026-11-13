@@ -31,7 +31,7 @@ that holds it together.
 
 Group work lives in **[QWERTY123](https://github.com/HotCode2025/Qwerty123-Cuarto-Semestre)** — a semester repo for **Programación IV** with a [wiki](https://github.com/HotCode2025/Qwerty123-Cuarto-Semestre/wiki) covering the theory behind each project.
 
-My latest project is **GastoSmart**, a personal-finance app documented end to end — from the business model and MER to a navigable prototype — with a [live demo](https://gastosmart.tinidrop.app/).
+My latest project is **GastoSmart**, a personal-finance app documented end to end — from the business model and MER to a navigable prototype — with a [live demo](https://gastosmart.tinidrop.app/) and a [presentation video](https://youtu.be/I9KbTOrssSo).
 
 | Project | Stack | Source |
 |---|---|---|
